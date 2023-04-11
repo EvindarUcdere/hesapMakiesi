@@ -1,0 +1,11 @@
+C:\Users\evind\source\repos\hesap\hesap\bin\Debug\hesap.exe.config
+C:\Users\evind\source\repos\hesap\hesap\bin\Debug\hesap.exe
+C:\Users\evind\source\repos\hesap\hesap\bin\Debug\hesap.pdb
+C:\Users\evind\source\repos\hesap\hesap\obj\Debug\hesap.csproj.AssemblyReference.cache
+C:\Users\evind\source\repos\hesap\hesap\obj\Debug\hesap.csproj.SuggestedBindingRedirects.cache
+C:\Users\evind\source\repos\hesap\hesap\obj\Debug\hesap.Form1.resources
+C:\Users\evind\source\repos\hesap\hesap\obj\Debug\hesap.Properties.Resources.resources
+C:\Users\evind\source\repos\hesap\hesap\obj\Debug\hesap.csproj.GenerateResource.cache
+C:\Users\evind\source\repos\hesap\hesap\obj\Debug\hesap.csproj.CoreCompileInputs.cache
+C:\Users\evind\source\repos\hesap\hesap\obj\Debug\hesap.exe
+C:\Users\evind\source\repos\hesap\hesap\obj\Debug\hesap.pdb
