@@ -1,0 +1,2 @@
+# hesapMakiesi
+ işlem önceliği yok
